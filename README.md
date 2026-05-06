@@ -2,7 +2,7 @@
 
 ### 🚀 Mi Tech Stack
 
-############################################ Lenguages and Tools:
+                              Lenguages and Tools:
 [![Mis Habilidades](https://skillicons.dev/icons?i=cpp,py,js,nodejs,html,css,aws,bash,linux&theme=dark)](https://skillicons.dev)
 
 
