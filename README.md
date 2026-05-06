@@ -1,6 +1,10 @@
-## Hi there
 
-### 🚀 Mi Tech Stack
+<h4 align="center">Connect with me</h4>
+<p align="center">
+  <a href="TU_LINK_DE_LINKEDIN">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="50" />
+  </a>
+</p>
 
 <h4 align="center">Languages and Tools</h4>
 <p align="center">
@@ -9,11 +13,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="TU_LINK_DE_LINKEDIN">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="50" />
-  </a>
-</p>
+
 
 
 
