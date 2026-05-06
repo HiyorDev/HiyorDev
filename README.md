@@ -2,8 +2,14 @@
 
 ### 🚀 Mi Tech Stack
 
-                              Lenguages and Tools:
-[![Mis Habilidades](https://skillicons.dev/icons?i=cpp,py,js,nodejs,html,css,aws,bash,linux&theme=dark)](https://skillicons.dev)
+[![Mis Redes](https://skillicons.dev/icons?i=cpp,py,js,nodejs,html,css,aws,bash,linux&theme=dark)](https://skillicons.dev)
+#### Lenguages and Tools:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,py,js,nodejs,html,css,aws,bash,linux&theme=dark" />
+  </a>
+</p>
+
 
 
 
