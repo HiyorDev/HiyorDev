@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi there
 
+### 🚀 Mi Tech Stack
+
+#### Lenguajes y Desarrollo Web
+[![Mis Habilidades](https://skillicons.dev/icons?i=cpp,py,js,nodejs,html,css&theme=dark)](https://skillicons.dev)
+
+#### Infraestructura y Sistemas
+[![Infraestructura](https://skillicons.dev/icons?i=aws,bash,linux&theme=dark)](https://skillicons.dev)
 <!--
 **HiyorDev/HiyorDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
