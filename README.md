@@ -9,7 +9,7 @@
 <h4 align="center">Languages and Tools</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,js,nodejs,html,css,aws,bash,linux&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,java,js,nodejs,html,css,aws,bash,linux&theme=dark" />
   </a>
 </p>
 
