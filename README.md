@@ -2,14 +2,14 @@
 <h4 align="center">Connect with me</h4>
 <p align="center">
   <a href="TU_LINK_DE_LINKEDIN">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="50" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark,gmail" width="50" />
   </a>
 </p>
 
 <h4 align="center">Languages and Tools</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,java,js,nodejs,html,css,aws,docker,bash,linux&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,java,js,nodejs,html,css,aws,docker,postgres,bash,linux&theme=dark" />
   </a>
 </p>
 
