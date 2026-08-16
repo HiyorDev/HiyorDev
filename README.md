@@ -2,7 +2,7 @@
 <h4 align="center">Connect with me</h4>
 <p align="center">
   <a href="TU_LINK_DE_LINKEDIN">
-    <img src="https://skillicons.dev/icons?i=gmail,linkedin&theme=dark" width="50" />
+    <img src="https://skillicons.dev/icons?i=gmail,linkedin&theme=dark" />
   </a>
 </p>
 
