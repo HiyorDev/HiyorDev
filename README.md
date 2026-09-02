@@ -1,19 +1,22 @@
 
-<h4 align="center">Connect with me</h4>
-<p align="center">
-  <a href="TU_LINK_DE_LINKEDIN">
-    <img src="https://skillicons.dev/icons?i=gmail,linkedin&theme=dark" />
-  </a>
-</p>
+# Hi, I'm Mauricio 👋
+Software Engineering Student | Backend Developer
 
-<h4 align="center">Languages and Tools</h4>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,java,js,nodejs,html,css,aws,docker,postgres,bash,linux&theme=dark" />
-  </a>
-</p>
+I'm a Software Engineering student focused on backend development, APIs, databases, and software engineering.
+
+I enjoy building projects to strengthen my programming skills and learning new technologies through practical development
 
 
+### core skills
+[![My Skills](https://skillicons.dev/icons?i=python,java,js,docker,fastapi,aws,mysql)](https://skillicons.dev)
+
+* lenguages: Python - Java - JavaScript - SQL
+* backend: FastAPI - Rest API - Pydantic
+* databases: MySQL - PostgreSQL - SQLite
+* tools: Git - Docker - Linux - Postman - Render
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HiyorDev&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 
